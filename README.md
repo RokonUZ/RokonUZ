@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **server optimize, laravel, wordpress, solidity, web3 and Javascript etc**
 
-- 📫 How to reach me **istiyakaminsanto@gmail.com**
+- 📫 How to reach me **RkUZaman@gmail.com**
 
 - ⚡ Fun fact **I Think I'm Funny**
 
